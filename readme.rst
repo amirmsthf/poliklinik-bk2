@@ -11,6 +11,15 @@ you creatively focus on your project by minimizing the amount of code needed
 for a given task.
 
 *******************
+Tutor instalasi
+*******************
+1. Buka xampp control panel
+2. Hidupkan Apache dan MySQL
+3. Import file dari github ini
+4. Import database
+5. Done
+
+*******************
 Release Information
 *******************
 
